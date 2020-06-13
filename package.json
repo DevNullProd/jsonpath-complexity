@@ -1,0 +1,30 @@
+{
+  "name": "jsonpath-complexity",
+  "description": "Evaluation the complexity of JSONPath expressions",
+  "version": "1.0.7",
+  "author": "mo@devnull.network",
+  "scripts": {
+    "test": "mocha -u tdd test"
+  },
+  "dependencies": {
+    "jsonpath": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "2.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devnullprod/jsonpath-complexity"
+  },
+  "keywords": [
+    "JSONPath",
+    "jsonpath",
+    "json-path",
+    "object",
+    "complexity",
+    "json",
+    "path",
+    "data structures"
+  ],
+  "license": "MIT"
+}
