@@ -1,5 +1,5 @@
 var jp = require("jsonpath")
-var aesprim = require('jsonpath/lib/aesprim')
+var aesprim = require('jsonpath/generated/aesprim-browser')
 
 module.exports = {
   complexity : function(jsonpath){
